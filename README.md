@@ -20,20 +20,19 @@ SQL over CSV — for fast filtering and sorting
 Plotly Express — for interactive visualizations
 
 🗂️ Project Structure
-bash
-Copy
-Edit
-.
-├── app.py              # Main Preswald script
-├── data/
-│   └── new_york_prices.csv  # Source CSV data
-├── preswald.toml       # Preswald config file
-└── README.md           # You're here!
-🚀 How to Run
+parent_folder
+
+- app.py # Main Preswald script
+- data/
+  - new_york_prices.csv # Source CSV data
+- preswald.toml # Preswald config file
+- README.md # You're here!
+
+  🚀 How to Run
 
 You can access the live app here https://preswald.app/pb8256d13
 
-OR 
+OR
 Login to Preswald
 
 Open https://preswald.com
@@ -69,5 +68,3 @@ Categorical color mapping using Python logic
 Clean, readable, reproducible app design
 
 Feel free to clone or fork this repo to extend this repo add more functionality
-
-
